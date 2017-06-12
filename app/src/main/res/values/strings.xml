@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">TP6</string>
+    <string name="Imagedesc">Ceci est l\'image du TP6</string>
 </resources>

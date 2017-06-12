@@ -4,12 +4,19 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.example.admin.tp6.MainActivity">
+    tools:context="com.example.admin.tp6.MainActivity"
+    android:weightSum="1">
 
     <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="213dp"
+        android:layout_height="match_parent"
+        android:contentDescription="Mon image n°1"
+        android:src="@drawable/image1" />
+
+    <TextView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:src="@drawable/image1"
-        android:contentDescription="Mon image n°1" />
+        android:text="@string/Imagedesc"/>
 
 </LinearLayout>
