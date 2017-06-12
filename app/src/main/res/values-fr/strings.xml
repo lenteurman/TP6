@@ -1,4 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">TP6</string>
+    <string name="app_name">TP6 french</string>
     <string name="Imagedesc">Image du TP6</string>
 </resources>
